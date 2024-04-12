@@ -24,5 +24,5 @@ const routes = [
 const router = new VueRouter({
   routes,
 });
-
+// 승민이 코딩 시작한다.
 export default router;
