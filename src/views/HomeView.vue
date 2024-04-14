@@ -1,18 +1,11 @@
+<script setup>
+import Sidebar from "@/components/Sidebar.vue";
+import KMap from "@/components/KMap.vue";
+</script>
+
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-  </div>
+  <Sidebar></Sidebar>
+  <KMap />
 </template>
 
-<script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
-export default {
-  name: "HomeView",
-  components: {
-    HelloWorld,
-  },
-};
-</script>
+<style scoped></style>
