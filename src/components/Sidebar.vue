@@ -13,12 +13,9 @@
             <LoginView />
           </div>
         </div>
-        <PlanRegistView />
-        <SearchBoxView />
       </div>
     </div>
     <div class="Info">
-      <TripPlanTabView />
       <footer class="Footer">
         <span>공지사항</span>
       </footer>

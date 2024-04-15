@@ -4,7 +4,6 @@ import KMap from "@/components/KMap.vue";
 </script>
 
 <template>
-  <Sidebar></Sidebar>
   <KMap />
 </template>
 
