@@ -1,4 +1,4 @@
-# chain
+# elite
 
 ## Project setup
 ```
