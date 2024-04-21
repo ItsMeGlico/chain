@@ -1,9 +1,12 @@
-<script setup>
+<script>
 import HomeView from "@/views/HomeView.vue";
+export default {};
 </script>
 
 <template>
-  <HomeView />
+  <div>
+    <HomeView />
+  </div>
 </template>
 
 <style scoped></style>

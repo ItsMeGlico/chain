@@ -1,9 +1,9 @@
 <script>
-export default{
-
-};  
+export default {};
 </script>
 
-<template></template>
+<template>
+  <div></div>
+</template>
 
 <style scoped></style>
